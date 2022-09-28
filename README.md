@@ -1,16 +1,29 @@
-### Hi there 👋
+### 👋
+I am a professionell Developer / Designer with many years experience in the Industry.
 
-<!--
-**kevinrodd/kevinrodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It all started with my first computer: As a teenager I created websites for my friends and family in simple HTML. I still do that today, even though the simple HTML has now turned into complex frameworks like Angular and I spend more time with Javascript, SCSS and other serverless frameworks. Different tools, but the same passion! 
 
-Here are some ideas to get you started:
+Speaking of passion, I love gaming. What do you like?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHSaRwoTEsXZQ/profile-displaybackgroundimage-shrink_200_800/0/1625489346659?e=1669852800&v=beta&t=IxiiJQzgvF5xJvMI1uYnkR2AN5FzKt_HYoOjxd3cjpw" >
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/MAC-OS-informational?style=flat&logo=apple&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+
+
+
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=kevinrodd&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinrodd&theme=dark)](https://git.io/streak-stats)
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kevinrodd&color=00cf00)
+
+
+
