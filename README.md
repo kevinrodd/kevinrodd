@@ -6,7 +6,7 @@ It all started with my first computer: As a teenager I created websites for my f
 Speaking of passion, I love gaming. What do you like?
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHSaRwoTEsXZQ/profile-displaybackgroundimage-shrink_200_800/0/1625489346659?e=1669852800&v=beta&t=IxiiJQzgvF5xJvMI1uYnkR2AN5FzKt_HYoOjxd3cjpw" >
+
 
 
 ## 🔧 Technologies & Tools
