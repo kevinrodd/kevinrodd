@@ -19,11 +19,3 @@ Speaking of passion, I love gaming. What do you like?
 
 
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinrodd&theme=dark)](https://git.io/streak-stats)
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kevinrodd&color=00cf00)
-
-
-
